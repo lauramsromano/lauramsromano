@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I'm studying to become a **Data Analyst and Data Scientist!**
-- 🌱 I am currently learning **machine learning!**
+- 🌱 I am currently learning **Machine Learning!**
 - 🤔 I’m looking for help with **Data Science, Machine Learning and A.I**
-- 💬 Let's talk about **Data Analyst**, I would love to learn from you.
-- ⚡ Fun fact: I have a degree in physics and I love to study about natural phenomena. 
+- 💬 Let's talk about **Data Analystic**, I would love to learn with you.
+- ⚡ Fun fact: I have a degree in physics and I love to study about.
 
 ---
 
