@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Data Analyst in training.
-
 ##### - BIO
 
-- ⚙️ I've studing about: `.py`, `.sql`, `.pbix`
+- ⚙️ I've studing about: `.py`, `.sql`, `.pbix`, statistic, machine learning and data science
 - 🏢 I've worked with logistics, more specifically **supply chain**
 - :telescope: I'm physis graduated at [IFSP](https://www.ifsp.edu.br/)
 - 🌱 I believe in education as a tool to change the world
